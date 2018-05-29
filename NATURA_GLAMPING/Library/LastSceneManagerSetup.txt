@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/8- 2Quarto/8-2Quarto.unity
+  isLoaded: 1
+  isActive: 1
